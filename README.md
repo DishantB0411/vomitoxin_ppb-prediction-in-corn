@@ -43,5 +43,4 @@ streamlit run app.py
 
 ## Contribution
 It's a Machine Learning Assignment. The approach is fine but need to work upon many improvements can be done.
-Dishant Bothra
 
