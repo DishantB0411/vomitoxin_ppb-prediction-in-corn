@@ -41,9 +41,7 @@ streamlit run app.py
 - The model outputs **predicted vomitoxin levels** in ppb.
 - Users can validate and analyze predictions through the provided web interface.
 
-## Contributions
-For improvements or bug fixes, feel free to fork the repository and submit a pull request.
-
-## License
-MIT License
+## Contribution
+It's a Machine Learning Assignment. The approach is fine but need to work upon many improvements can be done.
+Dishant Bothra
 
